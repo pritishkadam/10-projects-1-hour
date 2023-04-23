@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rebeccapurple;
+    color: #fff;
+    font-size: 24px;
+}
+
+#autoText {
+    border-right: 1px solid;
+}
