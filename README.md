@@ -1,11 +1,11 @@
-You can find the projects [here](https://10projects1hour.netlify.app/).
+Following is the list of projects created with the help of a YouTube video as beginner projects.
 
 1. Hamburger Button
 
--   button + hamburger icon
+-   hamburger icon as a button
 -   menu > li > a -> hidden
--   toggle on click
--   animation
+-   toggle the navbar on click
+-   animation for the navbar on toggle
 
 2. Toast Notification
 
