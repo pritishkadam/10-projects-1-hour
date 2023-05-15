@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#btn {
+    padding: 1rem;
+    background-color: purple;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.5);
+    transition: transform 0.1s linear;
+}
+
+#btn:focus {
+    outline: none;
+}
+
+#btn:active {
+    box-shadow: 0;
+    transform: translate(1px, 1px);
+}
+
