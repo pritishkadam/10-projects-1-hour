@@ -10,3 +10,13 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+
+.btn {
+    padding: 1rem;
+    color: #fff;
+    background-color: rebeccapurple;
+    margin: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    user-select: none;
+}
